@@ -1,5 +1,4 @@
-MyBatis SQL Mapper Framework for Java
-=====================================
+
 
 [![Build Status](https://travis-ci.org/mybatis/mybatis-3.svg?branch=master)](https://travis-ci.org/mybatis/mybatis-3)
 [![Coverage Status](https://coveralls.io/repos/mybatis/mybatis-3/badge.svg?branch=master&service=github)](https://coveralls.io/github/mybatis/mybatis-3?branch=master)
@@ -16,8 +15,9 @@ MyBatis couples objects with stored procedures or SQL statements using a XML des
 Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.
 
 Essentials
-----------
+----------git
 
 * [See the docs](http://mybatis.github.io/mybatis-3)
 * [Download Latest](https://github.com/mybatis/mybatis-3/releases)
 * [Download Snapshot](https://oss.sonatype.org/content/repositories/snapshots/org/mybatis/mybatis/)
+
